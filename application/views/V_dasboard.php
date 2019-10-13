@@ -3,7 +3,7 @@
 <head>
 	<title>Gimana???</title>
 	<meta charset="utf-8">
-		<title>Bootstrap E-commerce Templates</title>
+		<!-- <title>Bootstrap E-commerce Templates</title> -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 		<!--[if ie]><meta content='IE=8' http-equiv='X-UA-Compatible'/><![endif]-->
@@ -72,9 +72,10 @@
             </div>
            
            
-                        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                 <div class="col-sm-3 col-md-4 col-xs-6 thumb">
+                 <!-- <div class="col-sm-3">.col-sm-3</div> -->
                 <a class="thumbnail" href="#">
-                   <img src="assets/img2/beras.jpg" width="100%" height="104">
+                   <img src="assets/img2/beras.jpg">
                    <p>Beras IR. 64</p>
                       
 				   <div style="font-size:20px">Rp 9.000,00 / Kg				   </div> 
@@ -83,7 +84,7 @@
 				   </div>
 				   <div align="right"> sebelumnya Rp 9.000,00 | <p  style="color:red">Rp 0,00 | 0,00%</p></div>
                 </a>
-            </div>
+                 </div>
                        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                 <a class="thumbnail" href="#">
                    <img src="assets/img2/minyak.jpg" width="100%" height="104">
@@ -110,7 +111,7 @@
             </div>
                        <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                 <a class="thumbnail" href="#">
-                   <img src="assets/img2/daging_ayam.jpg" width="100%" height="104">
+                   <img src="assets/img2/ayam.jpg" width="100%" height="104">
                    <p>Daging Ayam Potong</p>
                       
 				   <div style="font-size:20px">Rp 29.000,00 / Kg				   </div> 
