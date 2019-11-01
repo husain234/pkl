@@ -41,7 +41,7 @@
 			    
 			    <div class="carousel-inner">
 			      <div class="carousel-item img-c active">
-			        <img src="assets/img/desa.jpg" class="d-block w-100" alt="...">
+			        <img src="assets/img2/matos.jpg" class="d-block w-100" alt="...">
 			        <div class="carousel-caption d-none d-md-block">
 			          <h5>First slide label</h5>
 			          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
