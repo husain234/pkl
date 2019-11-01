@@ -11,7 +11,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <title>Halaman Utama E-Desa</title>
+    <title>Halaman Utama Pasar</title>
   </head>
   <body>
 
@@ -22,8 +22,8 @@
       <div class="container-fluid">
         <div class="row" id="headrow">
           <div class="col" id="text-header">
-            <h1 style="width:">E-Desa</h1>
-            <h2>Sistem Administrasi Surat Desa</h2>
+            <h1 style="width:">Kominfo</h1>
+            <h2>Kabupaten Malang</h2>
           </div>
         </div>
       </div>
@@ -38,15 +38,17 @@
 			      <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
 			      <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
 			    </ol>
+			    
 			    <div class="carousel-inner">
 			      <div class="carousel-item img-c active">
-			        <img src="http://[::1]/ProjectWebEdesa/assets/img/desa.jpg" class="d-block w-100" alt="...">
+			        <img src="assets/img/desa.jpg" class="d-block w-100" alt="...">
 			        <div class="carousel-caption d-none d-md-block">
 			          <h5>First slide label</h5>
 			          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
 			        </div>
 			      </div>
-			      			      <div class="carousel-item">
+			      			      
+			      <div class="carousel-item">
 			        <img src="http://[::1]/ProjectWebEdesa/assets/img/posyandu 1.jpg" class="d-block w-100" alt="...">
 			        <div class="carousel-caption d-none d-md-block">
 			          <h5>posyandu</h5>
